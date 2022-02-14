@@ -1,0 +1,4 @@
+#Fri Feb 11 18:42:10 KGT 2022
+base.0=/Users/sergei/itMega/flatter/flutter_application_4/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
